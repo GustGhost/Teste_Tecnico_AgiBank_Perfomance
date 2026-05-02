@@ -74,7 +74,7 @@ Caso não esteja, instale o Java (JDK 8 ou superior).
 3. Selecione o arquivo:
 
    ```
-   blazedemo-test.jmx
+   TesteTecnicoAgiBank.jmx
    ```
 
 4. Clique em:
@@ -95,13 +95,13 @@ cd apache-jmeter-5.6.3/bin
 Sem o relatório visual:
 
 ```bash
-jmeter -n -t /caminho/do/projeto/blazedemo-test.jmx -l resultado.jtl
+jmeter -n -t /caminho/do/projeto/TesteTecnicoAgiBank.jmx -l resultado.jtl
 ```
 
 Para gerar um relatório visual completo:
 
 ```bash
-jmeter -n -t blazedemo-test.jmx -l resultado.jtl -e -o relatorio
+jmeter -n -t /caminho/do/projeto/TesteTecnicoAgiBank.jmx -l resultado.jtl -e -o relatorio
 ```
 
 ### 📁 Estrutura gerada:
