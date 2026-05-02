@@ -172,4 +172,5 @@ As principais métricas a serem analisadas:
 ## 👨‍💻 Autor
 
 Luis Gustavo
+
 QA Engineer | Automação de Testes
